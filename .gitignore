@@ -3,3 +3,4 @@
 .DS_Store
 node_modules
 /secondary/src/gsap/*
+!/secondary/src/gsap/.gitkeep
