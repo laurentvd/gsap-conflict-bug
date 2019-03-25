@@ -1,0 +1,16 @@
+{
+	"name": "gsap-bug",
+	"version": "1.0.0",
+	"description": "",
+	"private": true,
+	"scripts": {
+		"build": "webpack --mode=production"
+	},
+	"dependencies": {
+		"gsap": "^2.1.2"
+	},
+	"devDependencies": {
+		"webpack": "^4.29.6",
+		"webpack-cli": "^3.3.0"
+	}
+}

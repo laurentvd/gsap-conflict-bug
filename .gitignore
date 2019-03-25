@@ -1,0 +1,5 @@
+/.idea
+/public/assets
+.DS_Store
+node_modules
+/secondary/src/gsap/*
